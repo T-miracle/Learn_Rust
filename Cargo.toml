@@ -1,0 +1,28 @@
+[package]
+edition = "2021"
+name = "Learn_Rust"
+version = "0.1.0"
+
+[workspace]
+members = [
+    "base/no_1_变量",
+    "base/no_2_基本类型",
+    "base/no_3_5_1_if_else",
+    "base/no_3_5_2_let_if",
+    "base/no_3_6_1_loop",
+    "base/no_3_6_2_while",
+    "base/no_3_6_3_for",
+    "base/no_4_1_3_所有权",
+    "base/no_4_1_3_所有权转移",
+    "base/no_4_2_1_引用与借用",
+    "base/no_4_2_2_可变引用与可变借用",
+    "base/no_4_2_3_引用在新老版本编辑器中的区别",
+    "base/no_23_enum",
+    "base/no_33_vector",
+    "base/no_102_generics",
+    "base/no_102_struct_generics",
+    "base/no_105_life_cycle",
+]
+
+[dependencies]
+rand = "0.8.4"

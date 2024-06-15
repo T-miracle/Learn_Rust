@@ -1,0 +1,6 @@
+[package]
+name = "no_3_5_2_let_if"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

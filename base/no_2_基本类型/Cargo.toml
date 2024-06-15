@@ -1,0 +1,6 @@
+[package]
+name = "no_2_基本类型"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

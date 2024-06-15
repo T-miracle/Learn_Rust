@@ -1,0 +1,6 @@
+[package]
+name = "no_3_6_2_while"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
