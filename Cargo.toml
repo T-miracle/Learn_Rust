@@ -17,11 +17,12 @@ members = [
     "base/no_4_2_1_引用与借用",
     "base/no_4_2_2_可变引用与可变借用",
     "base/no_4_2_3_引用在新老版本编辑器中的区别",
+    "base/no_4_3_切片",
+    "base/no_10_5_生命周期",
     "base/no_23_enum",
     "base/no_33_vector",
     "base/no_102_generics",
     "base/no_102_struct_generics",
-    "base/no_105_life_cycle",
 ]
 
 [dependencies]
