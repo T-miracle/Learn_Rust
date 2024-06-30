@@ -1,5 +1,5 @@
 [package]
-name = "no_102_struct_generics"
+name = "no_8_5_HashMap"
 version = "0.1.0"
 edition = "2021"
 

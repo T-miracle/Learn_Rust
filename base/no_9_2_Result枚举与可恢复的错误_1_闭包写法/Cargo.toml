@@ -1,0 +1,6 @@
+[package]
+name = "no_9_2_Result枚举与可恢复的错误_1_闭包写法"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

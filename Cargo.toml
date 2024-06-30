@@ -18,11 +18,15 @@ members = [
     "base/no_4_2_2_可变引用与可变借用",
     "base/no_4_2_3_引用在新老版本编辑器中的区别",
     "base/no_4_3_切片",
+    "base/no_6_1_枚举",
+    "base/no_8_1_集合",
+    "base/no_8_5_HashMap",
+    "base/no_9_2_Result枚举与可恢复的错误",
+    "base/no_10_2_泛型",
+    "base/no_10_2_泛型_结构体",
     "base/no_10_5_生命周期",
-    "base/no_23_enum",
-    "base/no_33_vector",
-    "base/no_102_generics",
-    "base/no_102_struct_generics",
+    "base/no_9_2_Result枚举与可恢复的错误_1_闭包写法",
+    "base/no_9_3_错误传播", "base/no_9_3_错误传播_问号运算符",
 ]
 
 [dependencies]
