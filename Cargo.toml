@@ -26,7 +26,18 @@ members = [
     "base/no_10_2_泛型_结构体",
     "base/no_10_5_生命周期",
     "base/no_9_2_Result枚举与可恢复的错误_1_闭包写法",
-    "base/no_9_3_错误传播", "base/no_9_3_错误传播_问号运算符",
+    "base/no_9_3_错误传播",
+    "base/no_9_3_错误传播_问号运算符",
+    "base/no_15_1_智能指针Box",
+    "base/no_15_2_1_实现deref方法",
+    "base/no_15_3_使用drop提前释放变量",
+    "base/no_15_4_引用计数智能指针Rc",
+    "base/no_15_5_1_RefCell的使用",
+    "base/no_15_5_2_Cell的使用",
+    "base/no_15_5_1_RefCell的使用_内部可变性示例",
+    "base/no_15_5_1_RefCell的使用_与Rc配合使用",
+    "base/no_15_6_1_循环引用导致的内存泄漏",
+    "base/no_15_6_2_使用弱引用Weak解决循环引用", "base/no_16_1_多线程",
 ]
 
 [dependencies]

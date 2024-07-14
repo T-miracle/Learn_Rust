@@ -1,0 +1,6 @@
+[package]
+name = "no_15_6_2_使用弱引用Weak解决循环引用"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

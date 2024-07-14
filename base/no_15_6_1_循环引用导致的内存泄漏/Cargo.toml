@@ -1,0 +1,6 @@
+[package]
+name = "no_15_6_1_循环引用导致的内存泄漏"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
